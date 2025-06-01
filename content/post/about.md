@@ -26,11 +26,6 @@ I have developed a **Web app** using Dart and Flutter.
 
 - another web app in the pipeline!
 
-> :warning: **Warning:** Do not push the big red button.
-
-> :memo: **Note:** Sunrises are beautiful.
-
-> :bulb: **Tip:** Remember to appreciate the little things in life.
 
 ## Art Interests
 
