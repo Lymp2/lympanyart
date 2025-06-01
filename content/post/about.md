@@ -8,7 +8,7 @@ image = 'images/esther.jpg'
 
 
 My hobbies are painting, and software development.
-I'm a retired engineer and live near Horsham in West Sussex, UK. I studied at Queen Mary College, London, Imperial College, and University of Californa, Berkeley. I'm also old.
+I'm a retired engineer and live near Horsham in West Sussex, UK. I studied at Queen Mary College, London, Imperial College, and University of Californa, Berkeley. I'm old.
 
 My painting above is of one of my granddaughters.
 
@@ -29,7 +29,7 @@ I have developed a **Web app** using Dart and Flutter.
 
 ## Art Interests
 
-I have recently been working on (= trying to improve) portraits, but I'm starting to enjoy still lifes. They're tricky too. I'll see.
+I have recently been working on (= trying to improve) portraits, but I'm starting to enjoy still lifes and street scenes.
 
 ## Commissions  
 
@@ -52,7 +52,7 @@ I use the following materials:
 
 ## Paints 
 
-- Michael Harding and Rublev oil paints. I get most from The Supreme Paint Company
+- Michael Harding and Rublev oil paints. I get most from *[The Supreme Paint Company](https://www.supremepaint.co.uk/)*
 
 ## Canvases
 
@@ -74,4 +74,4 @@ I use the following materials:
 3. https://www.youtube.com/c/NicThurman
 
 
-**I built this website built using Hugo**
+**I built this website built using Hugo. Hosted on Netlify. Domain reg with 123-reg.co.uk**
