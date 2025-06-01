@@ -7,7 +7,7 @@ image = 'images/esther.jpg'
 +++
 
 
-My hobbies are painting, and software development.
+My hobbies are painting, and software development..
 I'm retired (was a nuclear/mechanical and software engineer) and live near Horsham in West Sussex, UK. I studied at Queen Mary College, London, Imperial College, and University of Californa, Berkeley. I'm also old.
 
 My painting above is of one of my granddaughters.
