@@ -2,29 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-06-30T19:11:39+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2025-06-30T19:11:39+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/post/about/</loc>
-    <lastmod>2025-05-30T19:11:39+01:00</lastmod>
+    <lastmod>2024-05-30T19:11:39+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/charles/</loc>
-    <lastmod>2025-05-30T19:11:39+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/newlyn/</loc>
-    <lastmod>2025-04-30T19:11:39+01:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-05-30T19:11:39+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/horsham/</loc>
-    <lastmod>2025-01-30T19:11:39+01:00</lastmod>
+    <lastmod>2024-05-30T19:11:39+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/granddaughter1/</loc>
     <lastmod>2024-05-30T19:11:39+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2024-05-30T19:11:39+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/charles/</loc>
+    <lastmod>2024-01-30T19:11:39+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/ella/</loc>
+    <lastmod>2023-07-30T19:11:39+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/bocklin/</loc>
+    <lastmod>2023-04-30T19:11:39+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/newlyn/</loc>
+    <lastmod>2023-04-30T19:11:39+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/churchill/</loc>
+    <lastmod>2022-01-30T19:11:39+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/cande/</loc>
+    <lastmod>2022-01-30T19:11:39+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/anotherdog/</loc>
+    <lastmod>2021-05-30T19:11:39+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/malkovich/</loc>
+    <lastmod>2020-05-30T19:11:39+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/post/zcaravaggio/</loc>
-    <lastmod>2023-05-30T19:11:39+01:00</lastmod>
+    <lastmod>2019-05-30T19:11:39+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/bruno/</loc>
     <lastmod>2012-05-30T19:11:39+01:00</lastmod>

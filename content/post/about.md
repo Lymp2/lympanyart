@@ -1,5 +1,5 @@
 +++
-date = '2025-05-30T19:11:39+01:00'
+date = '2024-05-30T19:11:39+01:00'
 draft = false
 title = 'About'
 image = 'images/esther.jpg'
@@ -7,7 +7,7 @@ image = 'images/esther.jpg'
 +++
 
 
-My hobbies are painting, and software development..
+My hobbies are painting, and software development.
 I'm a retired engineer and live near Horsham in West Sussex, UK. I studied at Queen Mary College, London, Imperial College, and University of Californa, Berkeley. I'm also old.
 
 My painting above is of one of my granddaughters.

@@ -1,7 +1,7 @@
 +++
-date = '2025-04-30T19:11:39+01:00'
+date = '2023-04-30T19:11:39+01:00'
 draft = false
-title = 'Newlyn'
+title = 'Old town Newlyn, Cornwall'
 image = 'images/newlyn1.jpg'
 +++
 
