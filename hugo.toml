@@ -1,4 +1,4 @@
 baseURL = 'https://lympany.art/'
 languageCode = 'en-us'
 title = 'Lympany.Art'
-theme = 'newsroom'
+theme = ["github.com/onweru/newsroom"]
