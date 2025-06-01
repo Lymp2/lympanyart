@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Lympany.Art</title>
+    <title>Posts on Art by Steve Lympany</title>
     <link>http://localhost:1313/post/</link>
-    <description>Recent content in Posts on Lympany.Art</description>
+    <description>Recent content in Posts on Art by Steve Lympany</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 30 May 2025 19:11:39 +0100</lastBuildDate>
@@ -14,6 +14,48 @@
       <pubDate>Fri, 30 May 2025 19:11:39 +0100</pubDate>
       <guid>http://localhost:1313/post/about/</guid>
       <description>&lt;p&gt;My hobbies are painting, and software development..&#xA;I&amp;rsquo;m retired (was a nuclear/mechanical and software engineer) and live near Horsham in West Sussex, UK. I studied at Queen Mary College, London, Imperial College, and University of Californa, Berkeley. I&amp;rsquo;m also old.&lt;/p&gt;&#xA;&lt;p&gt;My painting above is of one of my granddaughters.&lt;/p&gt;&#xA;&lt;p&gt;I paint in oils, attempting representational art (i.e. things that are recognisable, in contrast to abstract art). If you would like to buy one of my pictures, let me know.  Commissions and requests are welcome (see below). Email me directly:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Charles</title>
+      <link>http://localhost:1313/post/charles/</link>
+      <pubDate>Fri, 30 May 2025 19:11:39 +0100</pubDate>
+      <guid>http://localhost:1313/post/charles/</guid>
+      <description>&lt;p&gt;Oil on canvas&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Newlyn</title>
+      <link>http://localhost:1313/post/newlyn/</link>
+      <pubDate>Wed, 30 Apr 2025 19:11:39 +0100</pubDate>
+      <guid>http://localhost:1313/post/newlyn/</guid>
+      <description>&lt;p&gt;A street in Newlyn, Penzance. Oil on canvas. Painted with a palette knife.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Horsham, West Sussex</title>
+      <link>http://localhost:1313/post/horsham/</link>
+      <pubDate>Thu, 30 Jan 2025 19:11:39 +0100</pubDate>
+      <guid>http://localhost:1313/post/horsham/</guid>
+      <description>&lt;p&gt;The Causway, in Horsham, West Sussex. Oil on canvas. Painted with a palette knife.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Margot</title>
+      <link>http://localhost:1313/post/granddaughter1/</link>
+      <pubDate>Thu, 30 May 2024 19:11:39 +0100</pubDate>
+      <guid>http://localhost:1313/post/granddaughter1/</guid>
+      <description>&lt;p&gt;One of my granddaughers. Oil on canvas.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Caravaggio</title>
+      <link>http://localhost:1313/post/zcaravaggio/</link>
+      <pubDate>Tue, 30 May 2023 19:11:39 +0100</pubDate>
+      <guid>http://localhost:1313/post/zcaravaggio/</guid>
+      <description>&lt;p&gt;A copy of one of Caravaggio&amp;rsquo;s masterpieces. Oil on canvas.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bruno</title>
+      <link>http://localhost:1313/post/bruno/</link>
+      <pubDate>Wed, 30 May 2012 19:11:39 +0100</pubDate>
+      <guid>http://localhost:1313/post/bruno/</guid>
+      <description>&lt;p&gt;Charcoal&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
