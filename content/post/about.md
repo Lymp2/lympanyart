@@ -48,6 +48,7 @@ I use the following materials:
 ## Gesso 
 
 - Usually Michael Harding non-absorbent gesso
+
 - Grounds - Wallace Seymour Professional Oil ground;  Rublev Lead Oil ground;  Rublev Lead Alkyd ground;
 
 ## Paints 
@@ -57,9 +58,10 @@ I use the following materials:
 ## Canvases
 
 - stretched linen and stretched cotton from eg Jacksons Art 
-- stretched polyester from ACF Canvases (no gesso required, just ground)
-- ACM (aluminium composite) from eg Cut Plastic Sheeting (either a gesso or ground)
 
+- stretched polyester (recently) from ACF Canvases (no gesso required, just ground). I got them from [AcfCanvases](https://acfcanvasses.com/), in Henfield, west Sussex
+
+- ACM (aluminium composite) from eg Cut Plastic Sheeting (either a gesso or ground)
 
 ## Brushes 
 
@@ -67,11 +69,22 @@ I use the following materials:
 
 ## How to paint
 
-1. https://www.youtube.com/user/DrawMixPaint
+- https://www.youtube.com/user/DrawMixPaint
 
-2. https://www.eastoaksstudio.com/
+- https://www.eastoaksstudio.com/
 
-3. https://www.youtube.com/c/NicThurman
+- https://www.youtube.com/c/NicThurman
+
+## Website
+
+- I built this website built using [Hugo](https://gohugo.io/) theme [Newsroom](https://github.com/onweru/newsroom)
+
+- hosted on [Netlify](https://www.netlify.com/)
+
+- Domain reg with [123-reg](https://www.123-reg.co.uk/)
 
 
-**I built this website built using Hugo. Hosted on Netlify. Domain reg with 123-reg.co.uk**
+
+## Software
+
+- I am writing my web (browser) apps using [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/)
