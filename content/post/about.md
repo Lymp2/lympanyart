@@ -59,7 +59,7 @@ I use the following materials:
 
 - stretched linen and stretched cotton from eg Jacksons Art 
 
-- stretched polyester (recently) from ACF Canvases (no gesso required, just ground). I got them from [AcfCanvases](https://acfcanvasses.com/), in Henfield, west Sussex
+- stretched polyester (recently) from ACF Canvases (no gesso required, just ground). I got them from *[AcfCanvases](https://acfcanvasses.com/)*, Henfield, West Sussex. A bit different to use, but good. Excellent for detailed work.
 
 - ACM (aluminium composite) from eg Cut Plastic Sheeting (either a gesso or ground)
 
