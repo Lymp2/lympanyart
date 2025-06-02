@@ -5,4 +5,4 @@ title = 'John Malkovic'
 image = 'images/Lympany-Malkovic.jpg'
 +++
 
-Oil on board
+Oil on cotton canvas

@@ -4,3 +4,5 @@ draft = false
 title = 'Daughter & Granddaughter'
 image = 'images/cande.jpg'
 +++
+
+May daughter and granddaugher. Oil on canvas

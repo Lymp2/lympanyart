@@ -10,7 +10,7 @@ author = "Weru"
 canonifyurls = true
 [pagination]
 disableAliases = false
-pagerSize = 10
+pagerSize = 50
 path = 'page'
 
 [permalinks]

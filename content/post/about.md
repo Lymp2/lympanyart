@@ -27,7 +27,7 @@ I have developed a **Web app** using Dart and Flutter.
 - another web app in the pipeline!
 
 
-## Art Interests
+## Art Interests 
 
 I have recently been working on (= trying to improve) portraits, but I'm starting to enjoy still lifes and street scenes.
 
