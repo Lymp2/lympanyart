@@ -75,6 +75,19 @@ I use the following materials:
 
 - https://www.youtube.com/c/NicThurman
 
+
+## Artists I like/admire
+
+- [Alex Venezia](https://www.alexvenezia.com/) 	:ok_hand:
+- [Ruth Fitton](https://www.ruthfitton.com/)
+- [Richard Schmid](https://www.richardschmid.com/) :heart:
+- [Mary Qian](http://maryqian.com/) :heart:
+- [Joseph Zbukvic](https://www.josephzbukvic.com/)
+- [Kurt Jackson](https://www.kurtjackson.com/) :sunglasses:
+- [Caroline Nelson](https://www.carolinenelsonartist.com/)
+- [David Leffel](https://davidleffel.com/)
+
+
 ## Website
 
 - I built this website built using [Hugo](https://gohugo.io/) theme [Newsroom](https://github.com/onweru/newsroom)
@@ -88,3 +101,4 @@ I use the following materials:
 ## Software
 
 - I am writing my web (browser) apps using [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/)
+

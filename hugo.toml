@@ -2,6 +2,8 @@ baseURL = 'https://lympany.art/'
 languageCode = 'en-us'
 title = 'Art by Steve Lympany'
 theme = ["github.com/onweru/newsroom"]
+enableEmoji = true
+
 [pagination]
 disableAliases = false
 pagerSize = 50
