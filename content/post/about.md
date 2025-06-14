@@ -14,7 +14,7 @@ My painting above is of one of my granddaughters.
 
 I paint in oils, attempting representational art (i.e. things that are recognisable, in contrast to abstract art). If you would like to buy one of my pictures, let me know.  Commissions and requests are welcome (see below). Email me directly:
 
-# lympanyArt AT pm.me
+### lympanyArt AT pm.me
 
 (Of course, replace " AT " with "@").
 I am a member (and currently the Secretary) of [**Horsham Artists**](https://www.horshamartists.org) who have 3 exhibitions each year in Horsham (**Art Trail** in June, **Art Fair** around October and the **Christmas Market** in Nov/Dec. I've taken part in the Trail and Fair.
