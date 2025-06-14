@@ -36,7 +36,7 @@ I have recently been working on (= trying to improve) portraits, but I'm startin
 
 **No risk**... apart from a small upfront fee, you will not be committed to purchasing the picture - even if you simply don't like it or just change your mind.
 
-If you're local (South East England), I'd prefer to take reference photos of your subject myself.  But if you have a good photo you can email me, I might be able to work from that (but no guarantees).
+If you live near me (South East England), I'd prefer to take reference photos of your subject myself.  But if you have a good photo you can email me, I might be able to work from that (but no guarantees).
 
 ## Requests
 
@@ -54,7 +54,7 @@ I use the following materials:
 
 ## Paints 
 
-- Michael Harding and Rublev oil paints. I get most from *[The Supreme Paint Company](https://www.supremepaint.co.uk/)*
+- **Michael Harding** and ==Rublev oil== paints. I get most from *[The Supreme Paint Company](https://www.supremepaint.co.uk/)*
 
 ## Canvases
 
