@@ -14,7 +14,7 @@ My painting above is of one of my granddaughters.
 
 I paint in oils, attempting representational art (i.e. things that are recognisable, in contrast to abstract art). If you would like to buy one of my pictures, let me know.  Commissions and requests are welcome (see below). Email me directly:
 
-### lympanyArt AT pm.me
+## lympanyArt AT pm.me
 
 (Of course, replace " AT " with "@").
 I am a member (and currently the Secretary) of [**Horsham Artists**](https://www.horshamartists.org) who have 3 exhibitions each year in Horsham (**Art Trail** in June, **Art Fair** around October and the **Christmas Market** in Nov/Dec. I've taken part in the Trail and Fair.
@@ -34,7 +34,7 @@ I have recently been working on (= trying to improve) portraits, but I'm startin
 
 ## Commissions  
 
-**No risk**... apart from a small upfront fee, you will not be committed to purchasing the picture eg if you don't like it.
+**No risk**... apart from a small upfront fee, you will not be committed to purchasing the picture - even if you simply don't like it or just change your mind.
 
 If you're local (South East England), I'd prefer to take reference photos of your subject myself.  But if you have a good photo you can email me, I might be able to work from that (but no guarantees).
 
