@@ -1,7 +1,7 @@
 +++
 date = '2024-05-30T19:11:39+01:00'
 draft = false
-title = 'About'
+title = 'About me...'
 image = 'images/esther.jpg'
 
 +++
