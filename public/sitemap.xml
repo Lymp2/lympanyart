@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/post/about/</loc>
-    <lastmod>2024-05-30T19:11:39+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-06-13T19:11:39+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/jug/</loc>
+    <lastmod>2025-06-13T19:11:39+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2025-06-13T19:11:39+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/stilllife/</loc>
+    <lastmod>2025-05-30T19:11:39+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/about/</loc>
     <lastmod>2024-05-30T19:11:39+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/horsham/</loc>
     <lastmod>2024-05-30T19:11:39+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/granddaughter1/</loc>
-    <lastmod>2024-05-30T19:11:39+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/</loc>
     <lastmod>2024-05-30T19:11:39+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/charles/</loc>
