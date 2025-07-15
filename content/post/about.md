@@ -7,7 +7,7 @@ image = 'images/esther.jpg'
 +++
 
 
-My hobbies are painting, and software development. TEST 
+My hobbies are painting, and software development. 
 I'm a retired engineer and live near Horsham in West Sussex, UK. I studied at Queen Mary College, London, Imperial College, and University of Californa, Berkeley. I'm old.
 
 My painting above is of one of my granddaughters.
@@ -28,7 +28,7 @@ I have recently been working on (= trying to improve) portraits, but I'm startin
 
 ### **Commissions**  
 
-**No risk**... apart from a small upfront fee, you will not be committed to purchasing the picture - even if you simply don't like it or just change your mind.
+>No risk... apart from a small upfront fee, you will not be committed to purchasing the picture - even if you simply don't like it or just change your mind.
 
 If you live near me (South East England), I'd prefer to take reference photos of your subject myself.  But if you have a good photo you can email me, I might be able to work from that (but no guarantees).
 
