@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Art by Steve Lympany</title>
+    <title>Archive on Art by Steve Lympany</title>
     <link>http://localhost:1313/post/</link>
-    <description>Recent content in Posts on Art by Steve Lympany</description>
+    <description>Recent content in Archive on Art by Steve Lympany</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Jun 2025 19:11:39 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jun 2025 19:11:39 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Jug</title>
-      <link>http://localhost:1313/post/jug/</link>
-      <pubDate>Fri, 13 Jun 2025 19:11:39 +0100</pubDate>
-      <guid>http://localhost:1313/post/jug/</guid>
-      <description>&lt;p&gt;Oil on canvas&lt;/p&gt;</description>
+      <title>Rollo</title>
+      <link>http://localhost:1313/post/rollo/</link>
+      <pubDate>Mon, 30 Jun 2025 19:11:39 +0100</pubDate>
+      <guid>http://localhost:1313/post/rollo/</guid>
+      <description>&lt;p&gt;Oil on ACM&lt;/p&gt;</description>
     </item>
     <item>
       <title>Still Life!</title>
@@ -25,9 +25,16 @@
     <item>
       <title>About me...</title>
       <link>http://localhost:1313/post/about/</link>
-      <pubDate>Thu, 30 May 2024 19:11:39 +0100</pubDate>
+      <pubDate>Sun, 30 Mar 2025 19:11:39 +0100</pubDate>
       <guid>http://localhost:1313/post/about/</guid>
       <description>&lt;p&gt;My hobbies are painting, and software development.&#xA;I&amp;rsquo;m a retired engineer and live near Horsham in West Sussex, UK. I studied at Queen Mary College, London, Imperial College, and University of Californa, Berkeley. I&amp;rsquo;m old.&lt;/p&gt;&#xA;&lt;p&gt;My painting above is of one of my granddaughters.&lt;/p&gt;&#xA;&lt;p&gt;I paint in oils, attempting representational art (i.e. things that are recognisable, in contrast to abstract art). If you would like to buy one of my pictures, let me know.  Commissions and requests are welcome (see below). Email me directly: &lt;em&gt;&lt;strong&gt;lympanyArt AT pm.me&lt;/strong&gt;&lt;/em&gt; (Of course, replace &amp;quot; AT &amp;quot; with &amp;ldquo;@&amp;rdquo;).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jug</title>
+      <link>http://localhost:1313/post/jug/</link>
+      <pubDate>Mon, 13 Jan 2025 19:11:39 +0100</pubDate>
+      <guid>http://localhost:1313/post/jug/</guid>
+      <description>&lt;p&gt;Oil on canvas&lt;/p&gt;</description>
     </item>
     <item>
       <title>Horsham, West Sussex</title>
@@ -79,17 +86,10 @@
       <description>&lt;p&gt;Charcoal&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Daughter &amp; Granddaughter</title>
-      <link>http://localhost:1313/post/cande/</link>
-      <pubDate>Sun, 30 Jan 2022 19:11:39 +0100</pubDate>
-      <guid>http://localhost:1313/post/cande/</guid>
-      <description>&lt;p&gt;May daughter and granddaugher. Oil on canvas&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Lola</title>
-      <link>http://localhost:1313/post/anotherdog/</link>
+      <title>Bruno</title>
+      <link>http://localhost:1313/post/bruno/</link>
       <pubDate>Sun, 30 May 2021 19:11:39 +0100</pubDate>
-      <guid>http://localhost:1313/post/anotherdog/</guid>
+      <guid>http://localhost:1313/post/bruno/</guid>
       <description>&lt;p&gt;Charcoal&lt;/p&gt;</description>
     </item>
     <item>
@@ -107,10 +107,17 @@
       <description>&lt;p&gt;A copy of one of Caravaggio&amp;rsquo;s masterpieces. Oil on canvas.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Bruno</title>
-      <link>http://localhost:1313/post/bruno/</link>
+      <title>Daughter &amp; Granddaughter</title>
+      <link>http://localhost:1313/post/cande/</link>
+      <pubDate>Sat, 30 Jan 2016 19:11:39 +0100</pubDate>
+      <guid>http://localhost:1313/post/cande/</guid>
+      <description>&lt;p&gt;May daughter and granddaugher. Oil on canvas&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lola</title>
+      <link>http://localhost:1313/post/lola/</link>
       <pubDate>Wed, 30 May 2012 19:11:39 +0100</pubDate>
-      <guid>http://localhost:1313/post/bruno/</guid>
+      <guid>http://localhost:1313/post/lola/</guid>
       <description>&lt;p&gt;Charcoal&lt;/p&gt;</description>
     </item>
   </channel>

@@ -3,54 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-07-30T19:11:39+01:00</lastmod>
+    <lastmod>2025-06-30T19:11:39+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2025-07-30T19:11:39+01:00</lastmod>
+    <loc>http://localhost:1313/pages/rollo/</loc>
+    <lastmod>2025-06-30T19:11:39+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/jug/</loc>
-    <lastmod>2025-06-13T19:11:39+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/stilllife/</loc>
+    <loc>http://localhost:1313/pages/stilllife/</loc>
     <lastmod>2025-05-30T19:11:39+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/about/</loc>
+    <loc>http://localhost:1313/pages/about/</loc>
+    <lastmod>2025-03-30T19:11:39+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pages/jug/</loc>
+    <lastmod>2025-01-13T19:11:39+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pages/horsham/</loc>
     <lastmod>2024-05-30T19:11:39+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/horsham/</loc>
+    <loc>http://localhost:1313/pages/granddaughter1/</loc>
     <lastmod>2024-05-30T19:11:39+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/granddaughter1/</loc>
-    <lastmod>2024-05-30T19:11:39+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/charles/</loc>
+    <loc>http://localhost:1313/pages/charles/</loc>
     <lastmod>2024-01-30T19:11:39+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/ella/</loc>
+    <loc>http://localhost:1313/pages/ella/</loc>
     <lastmod>2023-07-30T19:11:39+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/bocklin/</loc>
+    <loc>http://localhost:1313/pages/bocklin/</loc>
     <lastmod>2023-04-30T19:11:39+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/newlyn/</loc>
+    <loc>http://localhost:1313/pages/newlyn/</loc>
     <lastmod>2023-04-30T19:11:39+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/churchill/</loc>
+    <loc>http://localhost:1313/pages/churchill/</loc>
     <lastmod>2022-01-30T19:11:39+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/cande/</loc>
-    <lastmod>2022-01-30T19:11:39+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/anotherdog/</loc>
+    <loc>http://localhost:1313/pages/bruno/</loc>
     <lastmod>2021-05-30T19:11:39+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/malkovich/</loc>
+    <loc>http://localhost:1313/pages/malkovich/</loc>
     <lastmod>2020-05-30T19:11:39+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/zcaravaggio/</loc>
+    <loc>http://localhost:1313/pages/</loc>
+    <lastmod>2019-08-25T00:52:59+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pages/zcaravaggio/</loc>
     <lastmod>2019-05-30T19:11:39+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/bruno/</loc>
+    <loc>http://localhost:1313/pages/cande/</loc>
+    <lastmod>2016-01-30T19:11:39+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pages/lola/</loc>
     <lastmod>2012-05-30T19:11:39+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
