@@ -6,5 +6,7 @@ enableEmoji = true
 
 [pagination]
 disableAliases = false
-pagerSize = 50
+pagerSize = 100
 path = 'page'
+
+paginate = 100
