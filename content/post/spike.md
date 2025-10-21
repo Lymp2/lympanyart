@@ -1,7 +1,7 @@
 +++
 date = '2025-10-30T19:11:39+01:00'
 draft = false
-title = 'Spike' 
+title = 'Spike2'
 image = 'images/spike.JPEG'
 +++
  
