@@ -7,8 +7,5 @@
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
 
-[[plugins]]
-  package = "@netlify/plugin-hugo"
-
 [context.production.environment]
   HUGO_ENV = "production"
