@@ -5,5 +5,5 @@ title: 'Horsham'
 ---
 
 {{< image src="/images/horsham1.jpg" alt="Horsham" >}}
-Oil on ACM
+Oil on ACM. Palette knife.
 {{< /image >}} 
