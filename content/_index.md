@@ -10,4 +10,4 @@ Welcome to my art portfolio. Browse my collection of portraits and still lifes.
 
 Use pinch gestures on touch devices to zoom pictures.
 
-email : {{< email address="lympanyArt@pm.me" />}}
+email : {{< email address="lympanyArt@pm.me" />}} (you will have to type in the correct address!)
