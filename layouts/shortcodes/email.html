@@ -1,3 +1,8 @@
-{{- $email := .Get "address" | default .Inner | trim -}}
-{{- $obfuscated := $email | replaceRE "@" "&#64;" | replaceRE "\\." "&#46;" -}}
-<a href="mailto:{{ $obfuscated }}">{{ $obfuscated }}</a>
+{{- $email := .Get "address" -}}
+{{- if not $email -}}
+  {{- $email = .Inner | trim -}}
+{{- end -}}
+{{- if $email -}}
+  {{- $obfuscated := $email | replaceRE "@" "&#64;" | replaceRE "\\." "&#46;" -}}
+  <a href="mailto:{{ $obfuscated }}">{{ $obfuscated }}</a>
+{{- end -}}
