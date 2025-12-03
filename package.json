@@ -1,0 +1,10 @@
+{
+  "name": "lympany-art",
+  "version": "1.0.0",
+  "description": "Lympany Art portfolio website",
+  "private": true,
+  "devDependencies": {
+    "@netlify/plugin-hugo": "^0.2.0"
+  }
+}
+
