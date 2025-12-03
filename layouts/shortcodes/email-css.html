@@ -1,0 +1,15 @@
+{{- $email := .Get "address" | default .Inner | trim -}}
+{{- $parts := split $email "@" -}}
+{{- $local := index $parts 0 -}}
+{{- $domain := index $parts 1 -}}
+{{- $domainParts := split $domain "." -}}
+<a href="mailto:{{ $email }}" class="obfuscated-email">
+  <span>{{ $local }}</span><span class="at-symbol">[at]</span><span>{{ index $domainParts 0 }}</span><span class="dot-symbol">[dot]</span><span>{{ index $domainParts 1 }}</span>
+</a>
+<style>
+  .obfuscated-email .at-symbol::before { content: "@"; }
+  .obfuscated-email .at-symbol { font-size: 0; }
+  .obfuscated-email .dot-symbol::before { content: "."; }
+  .obfuscated-email .dot-symbol { font-size: 0; }
+</style>
+

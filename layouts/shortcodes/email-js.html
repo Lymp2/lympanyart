@@ -1,0 +1,17 @@
+{{- $email := .Get "address" | default .Inner | trim -}}
+{{- $parts := split $email "@" -}}
+{{- $local := index $parts 0 -}}
+{{- $domain := index $parts 1 -}}
+<span id="email-{{ $local }}-{{ $domain | replaceRE "\\." "-" }}"></span>
+<script>
+  (function() {
+    var local = "{{ $local }}";
+    var domain = "{{ $domain }}";
+    var email = local + "@" + domain;
+    var link = document.createElement("a");
+    link.href = "mailto:" + email;
+    link.textContent = email;
+    document.getElementById("email-{{ $local }}-{{ $domain | replaceRE "\\." "-" }}").appendChild(link);
+  })();
+</script>
+
