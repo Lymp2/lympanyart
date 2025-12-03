@@ -15,8 +15,8 @@ I am a member (and currently the Secretary) of [**Horsham Artists**](https://www
 ### **Software Interests**
 
 I have developed a **Web app** using Dart and Flutter. 
-- **BoardsUp!** is for planning temporary (and permanent) art exhibitions, especially those that hire temporary, movable walls/boards on which 2D is art is hung. I'll create a link here when it's ready.
-- another web app in the pipeline
+- **BoardsUp!** is for planning temporary (and permanent) art exhibitions, especially those that hire temporary, movable walls/boards on which 2D is art is hung. Contact me if you think this might be of interest (it would be free).
+- another web app in the pipeline for managing art trails.
 
 ### **Art Interests** 
 

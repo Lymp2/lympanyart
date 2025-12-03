@@ -2,10 +2,12 @@
 title: "Home"
 date: 2025-01-02
 draft: false
-intro_image: "/images/Lympany-Malkovic.jpg"
+intro_image: "/images/newlynshort.jpg"
 ---
 
-**{{< artist-name >}}Art by Steve Lympany{{< /artist-name >}}**
+**{{< artist-name >}}STEVE LYMPANY ART{{< /artist-name >}}**
+
+**Horsham, West Sussex, UK**
 
 Welcome to my art portfolio. Browse my collection of portraits and still lifes.
 
