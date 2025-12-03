@@ -8,7 +8,7 @@ draft: false
 My hobbies are painting, and software development. 
 I'm a retired engineer and live near Horsham in West Sussex, UK. I studied at Queen Mary College, London, Imperial College, and University of Californa, Berkeley. Oh, and I'm old.
 
-I paint in oils, attempting representational art (i.e. things that are recognisable, in contrast to abstract art). If you would like to buy one of my pictures, let me know.  Commissions and requests are welcome (see below). Email me directly: _**lympanyArt AT pm.me**_ (Of course, replace " AT " with "@").
+I paint in oils, attempting representational art (i.e. things that are recognisable, in contrast to abstract art). If you would like to buy one of my pictures, let me know.  **Commissions** and **requests** are welcome (see below). Email me directly: _**lympanyArt AT pm.me**_ (Of course, replace " AT " with "@").
 
 I am a member (and currently the Secretary) of [**Horsham Artists**](https://www.horshamartists.org) which has 3 exhibitions each year in Horsham : **Art Trail** in June, **Art Fair** around October and the **Christmas Market** in Nov/Dec. 
 
@@ -26,7 +26,7 @@ I have recently been working on (= trying to improve) portraits, but I'm startin
 
 >No risk... apart from a small upfront fee to cover materials, you will not be committed to purchasing the picture - even if you simply don't like it or just change your mind.
 
-If you live near me (South East England), I'd prefer to take reference photos of your subject myself.  But if you have a good photo you can email me, I might be able to work from that (but no guarantees).
+If you live near me (West Sussex, South East England), I prefer to take reference photos of your subject myself.  But if you have a good photo you can email me, I might be able to work from that (but no guarantees).
 
 ### **Requests**
 

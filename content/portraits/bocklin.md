@@ -3,7 +3,7 @@ date: '2021-05-30'
 draft: false
 title: 'Arnold Bocklin Copy'
 ---
-{{< image src="/images/bocklin.jpg" alt="Arnold Bocklin copy" >}}
+{{< image src="/images/bocklin1.jpg" alt="Arnold Bocklin copy" >}}
 Oil on canvas. Copy. 
 {{< /image >}} 
 
