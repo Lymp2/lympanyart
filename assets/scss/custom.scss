@@ -89,3 +89,14 @@
     touch-action: pan-x pan-y pinch-zoom;
   }
 }
+
+// Reduce top padding on list pages (category pages like "pet portraits")
+.page-default-list .intro {
+  padding-top: 20px !important;
+  padding-bottom: 30px !important;
+  
+  @media (min-width: 768px) {
+    padding-top: 40px !important;
+    padding-bottom: 40px !important;
+  }
+}
