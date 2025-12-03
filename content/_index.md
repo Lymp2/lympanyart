@@ -2,6 +2,7 @@
 title: "Home"
 date: 2025-01-02
 draft: false
+intro_image: "/images/Lympany-Malkovic.jpg"
 ---
 
 **{{< artist-name >}}Art by Steve Lympany{{< /artist-name >}}**

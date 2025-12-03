@@ -4,9 +4,10 @@
 .content .artist-name,
 .content strong .artist-name {
   font-family: 'Cormorant Garamond', serif !important;
-  font-size: 4rem !important;
-  font-weight: 700 !important;
-  background-color: #f9f9fa !important;
+  font-size: xx-large !important;
+  font-weight: 500 !important;
+  background-color: #ffffff !important;
+  color: #220fcd7c !important;
   padding: 0.5rem 1rem !important;
   border-radius: 4px !important;
   display: inline-block !important;
@@ -37,18 +38,18 @@
   }
   
   a {
-    color: #f24088;
+    color: #6136d67c;
     text-decoration: underline;
     cursor: pointer;
     pointer-events: auto;
     
     &:hover {
-      color: #d63673;
+      color: #36c9d67c;
       text-decoration: underline;
     }
     
     &:visited {
-      color: #b82d5f;
+      color: #36c9d67c;
     }
   }
 }
