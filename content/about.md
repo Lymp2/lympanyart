@@ -64,12 +64,12 @@ I use the following materials:
 
 ### **Some artists I like/admire**
 
-- [Alex Venezia](https://www.alexvenezia.com/) 	:ok_hand:
+- [Alex Venezia](https://www.alexvenezia.com/) 👍
 - [Ruth Fitton](https://www.ruthfitton.com/)
-- [Richard Schmid](https://www.richardschmid.com/) :heart:
-- [Mary Qian](http://maryqian.com/) :heart:
+- [Richard Schmid](https://www.richardschmid.com/) ❤️
+- [Mary Qian](http://maryqian.com/) ❤️
 - [Joseph Zbukvic](https://www.josephzbukvic.com/)
-- [Kurt Jackson](https://www.kurtjackson.com/) :sunglasses:
+- [Kurt Jackson](https://www.kurtjackson.com/) 😎
 - [Caroline Nelson](https://www.carolinenelsonartist.com/)
 - [David Leffel](https://davidleffel.com/)
 
