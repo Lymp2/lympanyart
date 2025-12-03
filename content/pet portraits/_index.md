@@ -6,3 +6,4 @@ draft: false
 
 **{{< artist-name >}}Pet Portraits{{< /artist-name >}}**
 
+Tap on the picture title to enlarge
