@@ -1,0 +1,6 @@
+<figure class="artwork-image">
+  <img src="{{ .Get "src" }}" alt="{{ .Get "alt" | default "" }}" loading="lazy" />
+  {{ if .Inner }}
+  <figcaption>{{ .Inner | markdownify }}</figcaption>
+  {{ end }}
+</figure>

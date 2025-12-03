@@ -1,0 +1,61 @@
+// Any variables that need to use Hugo configuration need to be declared here
+// Colors
+$primary: {{ .Site.Params.colors.primary | default "#f24088" }};
+$black: {{ .Site.Params.colors.black | default "#2f2f41" }};
+$white: {{ .Site.Params.colors.white | default "#ffffff" }};
+$white-offset: {{ .Site.Params.colors.white_offset | default "#f6f7ff" }};
+$grey: {{ .Site.Params.colors.grey | default "#5C5A5A" }};
+
+// Fonts
+$font-family-base: {{ .Site.Params.fonts.base | default "Source Sans Pro" }}, Helvetica, Arial, sans-serif, -apple-system;
+$font-family-heading: {{ .Site.Params.fonts.heading | default "Playfair Display" }}, serif, -apple-system;
+
+
+// Variables - Override Bootstrap variables and set your own here
+@import '../../themes/hugo-serif-theme/assets/scss/variables';
+
+// Bootstrap
+@import '../../themes/hugo-serif-theme/assets/scss/bootstrap/bootstrap-reboot';
+@import '../../themes/hugo-serif-theme/assets/scss/bootstrap/bootstrap-grid';
+@import '../../themes/hugo-serif-theme/assets/scss/bootstrap/bootstrap-utilities';
+
+// Libraries
+@import '../../themes/hugo-serif-theme/assets/scss/libraries/hamburgers/hamburgers';
+
+// Components
+@import '../../themes/hugo-serif-theme/assets/scss/components/type';
+@import '../../themes/hugo-serif-theme/assets/scss/components/page';
+@import '../../themes/hugo-serif-theme/assets/scss/components/header';
+@import '../../themes/hugo-serif-theme/assets/scss/components/footer';
+@import '../../themes/hugo-serif-theme/assets/scss/components/sub-footer';
+@import '../../themes/hugo-serif-theme/assets/scss/components/logo';
+@import '../../themes/hugo-serif-theme/assets/scss/components/main-menu';
+@import '../../themes/hugo-serif-theme/assets/scss/components/main-menu-mobile';
+@import '../../themes/hugo-serif-theme/assets/scss/components/hamburger';
+@import '../../themes/hugo-serif-theme/assets/scss/components/buttons';
+@import '../../themes/hugo-serif-theme/assets/scss/components/call';
+@import '../../themes/hugo-serif-theme/assets/scss/components/title';
+@import '../../themes/hugo-serif-theme/assets/scss/components/content';
+@import '../../themes/hugo-serif-theme/assets/scss/components/intro';
+@import '../../themes/hugo-serif-theme/assets/scss/components/intro-image';
+@import '../../themes/hugo-serif-theme/assets/scss/components/strip';
+@import '../../themes/hugo-serif-theme/assets/scss/components/feature';
+@import '../../themes/hugo-serif-theme/assets/scss/components/social';
+
+// Pages
+@import '../../themes/hugo-serif-theme/assets/scss/pages/home';
+@import '../../themes/hugo-serif-theme/assets/scss/pages/team/team-summary';
+@import '../../themes/hugo-serif-theme/assets/scss/pages/services/page-services-single';
+
+body {
+  font-size: 16px;
+  line-height: 1.2;
+  font-family: $font-family-base;
+  @include media-breakpoint-up(md) {
+    font-size: 16px;
+    line-height: 1.3;
+  }
+}
+
+// Custom styles for art gallery
+@import 'custom';

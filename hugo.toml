@@ -1,0 +1,55 @@
+baseURL = 'https://lympany.art/'
+languageCode = 'en-us'
+title = 'Lympany Art'
+theme = 'hugo-serif-theme'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  description = "Art portfolio by Lympany"
+  favicon = "favicon-32x32.svg"
+  
+  [params.fonts]
+    google_fonts = 'https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Source+Sans+Pro:wght@400;700&family=Cormorant+Garamond:wght@400;600;700&display=swap'
+    heading = "Playfair Display"
+    base = "Source Sans Pro"
+  
+  [params.colors]
+    primary = "#000077"
+    black = "#1f1f41"
+    white = "#ffffff"
+    white_offset = "#f6f7ff"
+    grey = "#5C5A5A"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 2
+
+[[menu.main]]
+  name = "Portraits and Figurative"
+  url = "/portraits/"
+  weight = 3
+
+[[menu.main]]
+  name = "Pet Portraits"
+  url = "/pet portraits/"
+  weight = 4
+
+[[menu.main]]
+  name = "Still Lifes"
+  url = "/still-lifes/"
+  weight = 5
+
+[[menu.main]]
+  name = "Street"
+  url = "/street/"
+  weight = 6

@@ -1,0 +1,143 @@
+{{ define "body_classes" }}page-default-single{{ end }}
+
+{{ define "main" }}
+<div class="container pb-6 pt-6 pt-md-14 pb-md-14">
+  <div class="row justify-content-start">
+    <div class="col-12 col-md-10">
+      <h1 class="title">{{.Title}}</h1>
+
+      <div class="content">
+        {{ if .Params.image }}
+        <figure class="artwork-image">
+          <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" loading="lazy" />
+          {{ if .Params.image_caption }}
+          <figcaption>{{ .Params.image_caption }}</figcaption>
+          {{ end }}
+        </figure>
+        {{ end }}
+        {{.Content}}
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- PhotoSwipe -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/photoswipe@5.4.2/dist/photoswipe.css">
+{{ end }}
+
+{{ define "footer_js" }}
+<script src="https://cdn.jsdelivr.net/npm/photoswipe@5.4.2/dist/photoswipe.umd.min.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // Initialize PhotoSwipe for all images in content
+  const images = document.querySelectorAll('.content img');
+  const items = [];
+  
+  images.forEach((img, index) => {
+    // Make images clickable
+    img.style.cursor = 'pointer';
+    
+    // Wait for image to load to get natural dimensions
+    const addToItems = () => {
+      items.push({
+        src: img.src,
+        width: img.naturalWidth || img.width || 1200,
+        height: img.naturalHeight || img.height || 800,
+        alt: img.alt || ''
+      });
+    };
+    
+    if (img.complete) {
+      addToItems();
+    } else {
+      img.addEventListener('load', addToItems);
+    }
+    
+    img.addEventListener('click', function() {
+      // Rebuild items array in case images loaded after initialization
+      const currentItems = [];
+      document.querySelectorAll('.content img').forEach((imgEl, idx) => {
+        currentItems.push({
+          src: imgEl.src,
+          width: imgEl.naturalWidth || imgEl.width || 1200,
+          height: imgEl.naturalHeight || imgEl.height || 800,
+          alt: imgEl.alt || ''
+        });
+      });
+      
+      const options = {
+        index: index,
+        bgOpacity: 0.9,
+        showHideAnimationType: 'fade',
+        zoomAnimationDuration: 200,
+        dataSource: currentItems
+      };
+      
+      const gallery = new PhotoSwipe(options);
+      gallery.init();
+    });
+  });
+  
+  // Enable pinch zoom on touch devices for inline images
+  if ('ontouchstart' in window) {
+    images.forEach(img => {
+      let initialDistance = 0;
+      let currentScale = 1;
+      let initialScale = 1;
+      let lastTouchEnd = 0;
+      let isZooming = false;
+      
+      img.addEventListener('touchstart', function(e) {
+        if (e.touches.length === 2) {
+          isZooming = true;
+          e.preventDefault();
+          const touch1 = e.touches[0];
+          const touch2 = e.touches[1];
+          initialDistance = Math.hypot(
+            touch2.clientX - touch1.clientX,
+            touch2.clientY - touch1.clientY
+          );
+          initialScale = currentScale;
+        }
+      });
+      
+      img.addEventListener('touchmove', function(e) {
+        if (e.touches.length === 2 && isZooming) {
+          e.preventDefault();
+          const touch1 = e.touches[0];
+          const touch2 = e.touches[1];
+          const currentDistance = Math.hypot(
+            touch2.clientX - touch1.clientX,
+            touch2.clientY - touch1.clientY
+          );
+          
+          const scale = initialScale * (currentDistance / initialDistance);
+          currentScale = Math.max(1, Math.min(scale, 5)); // Limit zoom between 1x and 5x
+          
+          img.style.transform = `scale(${currentScale})`;
+          img.style.transformOrigin = 'center center';
+          img.style.transition = 'none';
+        }
+      });
+      
+      img.addEventListener('touchend', function(e) {
+        if (e.touches.length < 2) {
+          if (isZooming) {
+            img.style.transition = 'transform 0.3s';
+            isZooming = false;
+          }
+          
+          // Double tap to reset
+          const now = Date.now();
+          if (now - lastTouchEnd <= 300) {
+            currentScale = 1;
+            img.style.transform = 'scale(1)';
+          }
+          lastTouchEnd = now;
+        }
+      });
+    });
+  }
+});
+</script>
+{{ end }}
