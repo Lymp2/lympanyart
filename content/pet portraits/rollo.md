@@ -2,7 +2,7 @@
 date: '2021-05-30'
 draft: false
 title: 'Rollo'
-weight: 1
+weight: 3
 ---
 
 {{< image src="/images/lympany_rollo.jpg" alt="Rollo" >}}

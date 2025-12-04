@@ -2,7 +2,7 @@
 date: '2021-05-30'
 draft: false
 title: 'Horse'
-weight: 6
+weight: 5
 ---
 
 {{< image src="/images/horse scraper.jpg" alt="Horse" >}}
