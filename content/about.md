@@ -54,7 +54,7 @@ _**Rublev Lead Alkyd**_ ground
 
 ### **Canvases**
 
-- _**ACM**_ (aluminium composite) from eg [here](https://www.cutplasticsheeting.co.uk/product/brushed-aluminium-silver-butler-composite-panel/). Use either a gesso or ground.
+- _**ACM**_ (aluminium composite) from eg [here](https://www.cutplasticsheeting.co.uk/product/brushed-aluminium-silver-butler-composite-panel/). Good prices. Use either a gesso or ground.
 - _**stretched polyester**_ from *[ACFCanvases](https://acfcanvasses.com/)*. A bit different to use, but good. Excellent for detailed work. They don't need to be gessoed, but I usually do.
 - _**stretched linen**_ and stretched cotton from eg [Jackson's](https://www.jacksonsart.com/). I don't use cotton much these days.
 
