@@ -48,7 +48,9 @@ _**Rublev Lead Alkyd**_ ground
 ### **Paints** 
 
 - _**Michael Harding**_ and _**Rublev oil**_ paints by [Natural Pigments](https://www.naturalpigments.eu/). I buy most from *[The Supreme Paint Company](https://www.supremepaint.co.uk/)* which has a lovely and informative website and good delivery 👍
-- informative videos on paints, mediums etc by by [Natural Pigments](https://www.naturalpigments.eu/) https://www.youtube.com/channel/UCr-fcElY8HHtbOgST8__9Vg. **Very good**!
+- informative videos on paints, mediums etc (by [Natural Pigments](https://www.naturalpigments.eu/))  https://www.youtube.com/channel/UCr-fcElY8HHtbOgST8__9Vg and https://www.youtube.com/@RublevColours
+
+**Very good**!
 
 ### **Canvases**
 
