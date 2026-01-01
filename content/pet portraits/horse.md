@@ -5,6 +5,6 @@ title: 'Horse'
 weight: 5
 ---
 
-{{< image src="/images/horse scraper.jpg" alt="Horse" >}}
-Scraper Board approx 60cm x 70cm
+{{< image src="/images/pf_horse scraper.jpg" alt="Horse" >}}
+Scraper Board approx 60cm x 70cm. Unavailable.
 {{< /image >}} 

@@ -5,6 +5,6 @@ title: 'Margot'
 weight: 3
 ---
 
-{{< image src="/images/Lympany-margot2.jpg" alt="Margot" >}}
-Oil on canvas
+{{< image src="/images/pf_Lympany-margot2.jpg" alt="Margot" >}}
+Oil on canvas. Unavailable.
 {{< /image >}} 

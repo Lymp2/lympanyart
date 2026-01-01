@@ -5,6 +5,6 @@ title: 'Ella'
 weight: 2
 ---
 
-{{< image src="/images/ella1.jpg" alt="Ella" >}}
-Oil on canvas 50cm x 50cm
+{{< image src="/images/pf_ella1.jpg" alt="Ella" >}}
+Oil on canvas 50cm x 50cm. Unavailable.
 {{< /image >}} 

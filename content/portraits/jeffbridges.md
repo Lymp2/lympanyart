@@ -5,5 +5,5 @@ title: 'Jeff Bridges'
 ---
 
 {{< image src="/images/jeff bridges.jpg" alt="Jeff Bridges" >}}
-Charcoal
+Charcoal. Unavailable.
 {{< /image >}} 

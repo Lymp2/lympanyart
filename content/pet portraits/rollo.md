@@ -5,6 +5,6 @@ title: 'Rollo'
 weight: 3
 ---
 
-{{< image src="/images/lympany_rollo.jpg" alt="Rollo" >}}
-Oil on ACM
+{{< image src="/images/pf_lympany_rollo.jpg" alt="Rollo" >}}
+Oil on ACM. Unavailable.
 {{< /image >}} 

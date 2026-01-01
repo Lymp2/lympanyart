@@ -4,6 +4,6 @@ draft: false
 title: 'Newlyn, Cornwall'
 ---
 
-{{< image src="/images/newlyn1.jpg" alt="Newlyn, Cornwall" >}}
+{{< image src="/images/pf_newlyn1.jpg" alt="Newlyn, Cornwall" >}}
 Oil on ACM. Palette knife.
 {{< /image >}} 

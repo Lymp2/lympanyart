@@ -4,6 +4,6 @@ draft: false
 title: 'Louise'
 ---
 
-{{< image src="/images/louise.jpg" alt="Louise" >}}
-Oil on Canvas
+{{< image src="/images/pf_louise.jpg" alt="Louise" >}}
+Oil on Canvas. Unavailable.
 {{< /image >}} 

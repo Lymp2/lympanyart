@@ -4,8 +4,8 @@ draft: false
 title: 'Caravaggio Sacrifice of Isaac'
 ---
 
-{{< image src="/images/cara1.jpg" alt="Caravaggio" >}}
-Oil on canvas
+{{< image src="/images/pf_cara1.jpg" alt="Caravaggio" >}}
+Oil on canvas. Unavailable.
 
 **Copy**
 {{< /image >}} 

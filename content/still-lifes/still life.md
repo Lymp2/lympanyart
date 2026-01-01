@@ -4,6 +4,6 @@ draft: false
 title: 'Still Life!!'
 ---
 
-{{< image src="/images/LympanyArtStillLife.jpg" alt="Still Life!!" >}}
-Oil on Canvas
+{{< image src="/images/pf_LympanyArtStillLife.jpg" alt="Still Life!!" >}}
+Oil on Canvas. Unavailble.
 {{< /image >}} 

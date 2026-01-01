@@ -6,7 +6,7 @@ draft: false
 
 **{{< artist-name >}}Portraits{{< /artist-name >}}**
 
-{{< image src="/images/esther.jpg" alt="Esther" >}}
+{{< image src="/images/pf_esther.jpg" alt="Esther" >}}
 Oil on ACM
 {{< /image >}} 
 

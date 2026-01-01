@@ -35,7 +35,7 @@ theme = 'hugo-serif-theme'
   weight = 2
 
 [[menu.main]]
-  name = "Portraits and Figurative"
+  name = "Portraits & Figurative"
   url = "/portraits/"
   weight = 3
 
@@ -53,3 +53,8 @@ theme = 'hugo-serif-theme'
   name = "Street"
   url = "/street/"
   weight = 6
+
+[[menu.main]]
+  name = "2026"
+  url = "/2026/"
+  weight = 7

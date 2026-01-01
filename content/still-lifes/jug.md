@@ -4,6 +4,6 @@ draft: false
 title: 'Jug'
 ---
 
-{{< image src="/images/LympanyArtJug.jpg" alt="Jug" >}}
-Oil on Canvas 50cm x 50cm
+{{< image src="/images/pf_LympanyArtJug.jpg" alt="Jug" >}}
+Oil on Canvas 50cm x 50cm. Available.
 {{< /image >}} 

@@ -5,6 +5,6 @@ title: 'Bruno'
 weight: 5
 ---
 
-{{< image src="/images/bruno3.jpg" alt="Bruno" >}}
-Charcoal
+{{< image src="/images/pf_bruno3.jpg" alt="Bruno" >}}
+Charcoal. Unavailable.
 {{< /image >}} 

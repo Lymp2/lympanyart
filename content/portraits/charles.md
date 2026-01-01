@@ -4,6 +4,6 @@ draft: false
 title: 'Charles'
 ---
 
-{{< image src="/images/charles1.jpg" alt="Charles" >}}
-Oil on canvas 50cmx50cm
+{{< image src="/images/pf_charles1.jpg" alt="Charles" >}}
+Oil on canvas 50cmx50cm. Available.
 {{< /image >}} 

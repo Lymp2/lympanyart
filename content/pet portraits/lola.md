@@ -5,6 +5,6 @@ title: 'Lola'
 weight: 4
 ---
 
-{{< image src="/images/lola.jpg" alt="Lola" >}}
+{{< image src="/images/pf_lola.jpg" alt="Lola" >}}
 Charcoal
 {{< /image >}} 
