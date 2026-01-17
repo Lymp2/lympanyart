@@ -5,12 +5,14 @@ draft: false
 ---
 Steve Lympany
 
+2026
+
 My hobbies are painting, and software development. 
 I'm a retired engineer and live near Horsham in West Sussex, UK. I studied at Queen Mary College, London, Imperial College, and University of Californa, Berkeley. Oh, and I'm old.
 
-I paint in oils, attempting representational art (i.e. things that are recognisable, in contrast to abstract art). If you would like to buy one of my pictures, let me know.  **Commissions** and **requests** are welcome (see below). Email me directly: _**lympanyArt AT pm.me**_ (Of course, replace " AT " with "@"). 
+I paint in oils (sometimes I do charcoal drawings) attempting representational art (i.e. things that are recognisable, in contrast to abstract art). If you would like to buy one of my pictures, let me know.  **Commissions** and **requests** are welcome (see below). Email me directly: _**lympanyArt AT pm.me**_ (Of course, replace " AT " with "@"). 
 
-I am a member (and currently the Secretary) of [**Horsham Artists**](https://www.horshamartists.org) which has 3 exhibitions each year in Horsham : **Art Trail** in June, **Art Fair** around October and the **Christmas Market** in Nov/Dec. 
+I am a member (and currently the Secretary) of [**Horsham Artists**](https://www.horshamartists.org) which has 3 exhibitions each year in Horsham : **Art Trail** in June, **Art Fair** around October and the **Christmas Market** in Nov/Dec. Horsham Artist also has an annual workshop **Art For Wellbeing** (28 Feb & 1 Mar 2026) 
 
 ### **Software Interests**
 
@@ -33,11 +35,11 @@ I can do copies of pictures (here on my wesbite) that are marked as "unavailable
 
 ### **Requests**
 
-Other than personal commissions, I'm happy to paint a request if it looks interesting eg request "a still life with a black dog and roses, 50x50cm". Email me a request. I would let you know if/when it's done, and you decide then if you want to buy it. If not, I'll just add it to my collection. It will have been fun anyway.
+Other than personal commissions, I'm happy to paint a request if it looks interesting eg request "a still life of a black dog and roses, 50x50cm". Email me a request. I would let you know if/when it's done, and you decide then if you want to buy it. If not, I'll just add it to my collection. It will have been fun anyway.
 
 ### **Materials and Resources**
 
-A brief note - I don't get paid by any of my "plugs" below. They're all from just my own experience.
+A brief note - I don't get paid by any of my "plugs" below. They're all my own views from experience.
 
 I use the following materials:
 
@@ -46,7 +48,7 @@ I use the following materials:
 - Gesso: _**Michael Harding**_ non-absorbent gesso
 - Grounds: _**Rublev Lead Oil**_ ground; 
 _**Wallace Seymour**_ Professional Oil ground; 
-_**Rublev Lead Alkyd**_ ground
+_**Rublev Lead Alkyd**_ ground (not so often. Alkyds gunk up in the can if left too long)
 
 ### **Paints** 
 
@@ -100,6 +102,7 @@ I have been in contact with [Workshops in Yorkshire](https://www.workshopsinyork
 - I built this website built using [Hugo](https://gohugo.io/) theme [Serif]
 - hosted on [Netlify](https://www.netlify.com/)
 - Domain reg with [123-reg](https://www.123-reg.co.uk/)
+
 ### **Software**
 
 - I write my web (browser) and Windows apps using [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/)

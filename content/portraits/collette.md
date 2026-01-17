@@ -1,9 +1,9 @@
 ---
 date: '2021-05-30'
 draft: false
-title: 'Louise'
+title: 'Collette'
 ---
 
-{{< image src="/images/pf_louise.jpg" alt="Louise" >}}
+{{< image src="/images/pf_louise.jpg" alt="Collette" >}}
 Oil on Canvas. Unavailable.
 {{< /image >}} 

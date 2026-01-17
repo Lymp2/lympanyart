@@ -2,6 +2,7 @@
 date: '2021-05-30'
 draft: false
 title: 'Arnold Bocklin Copy'
+weight: 8
 ---
 {{< image src="/images/pf_Lympany-Bocklin.jpg" alt="Arnold Bocklin copy" >}}
 Oil on canvas. Copy. Available.

@@ -6,4 +6,4 @@ draft: false
 
 **{{< artist-name >}}2026 works{{< /artist-name >}}**
 
-Work in progress
+Works in progress.  Pinch to zoom
