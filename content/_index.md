@@ -2,7 +2,7 @@
 title: "Home"
 date: 2025-01-02
 draft: false
-intro_image: "/images/newlynshort.jpg"
+intro_image: "/images/marg3.jpg"
 ---
 
 **{{< artist-name >}}STEVE LYMPANY ART{{< /artist-name >}}**
