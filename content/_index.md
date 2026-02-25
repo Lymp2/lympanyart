@@ -2,7 +2,7 @@
 title: "Home"
 date: 2025-01-02
 draft: false
-intro_image: "/images/marg3.jpg"
+intro_image: "/images/pf_lottie.jpg"
 ---
 
 **{{< artist-name >}}STEVE LYMPANY ART{{< /artist-name >}}**
