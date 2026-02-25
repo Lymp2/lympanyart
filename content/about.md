@@ -23,11 +23,11 @@ I have developed apps for the web (browsers) and Windows using Dart and Flutter.
 
 ### **Art Interests** 
 
-I have recently been working on (= trying to improve) portraits, but I'm starting to enjoy still lifes, street scenes and landscapes.
+I strive to improve my painting - portraiture, still lifes, street scenes and landscapes, and experiment with new styles. I am not sure I have a style!
 
 ### **Commissions**  
 
->No risk... apart from a small upfront fee to cover materials, you will not be committed to purchasing the picture - even if you simply don't like it or just change your mind.
+**No risk**... apart from a small upfront fee to cover materials, you will not be committed to purchasing the picture - even if you simply don't like it or just change your mind.
 
 If you live near me (West Sussex, South East England), I prefer to take reference photos of your subject myself.  But if you have a good photo you can email me, I might be able to work from that (but no guarantees).
 
@@ -35,7 +35,7 @@ I can do copies of pictures (here on my wesbite) that are marked as "unavailable
 
 ### **Requests**
 
-Other than personal commissions, I'm happy to paint a request if it looks interesting eg request "a still life of a black dog and roses, 50x50cm". Email me a request. I would let you know if/when it's done, and you decide then if you want to buy it. If not, I'll just add it to my collection. It will have been fun anyway.
+Other than personal commissions, I'm happy to paint a request if it looks interesting e.g. request *a still life of a black dog and roses, 50x50cm*. Email me a request. I would let you know if/when it's done, and you decide then if you want to buy it. If not, I'll just add it to my collection. It will have been fun anyway.
 
 ### **Materials and Resources**
 
