@@ -39,11 +39,11 @@ I can do copies of pictures (here on my wesbite) that are marked as "unavailable
 
 Other than personal commissions, I'm happy to paint **a request** with **no deposit**, if it looks interesting e.g. request *a still life of a black dog and roses, 50x50cm*. Just email me. I would let you know if/when it's done, and then you decide if you want to buy it. If not, I'll just add it to my collection. It will have been fun anyway.
 
-Clearly I cannot do a request for a commission (I wouldn't be able to sell it if you did not want it, because it would be personal to you).
+(Clearly I cannot do a request for a commission - I wouldn't be able to sell it if you didn't want it, and it wouldn't be of interest to me to keep it, because it would be personal to you).
 
 ### **Materials and Resources**
 
-A brief note - I don't get paid by any of my "plugs" below. They're all my own views from experience.
+A brief note - I don't get paid by any of my "plugs" below. They're all my views from my own experience.
 
 I use the following materials:
 
