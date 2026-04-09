@@ -1,7 +1,7 @@
 ---
 date: '2026-02-30'
 draft: false
-title: 'Sue Sketch'
+title: 'Sue'
 ---
 {{< image src="/images/suesketch.jpg" alt="Sue Sketch" >}}
 Oil on ACM. Sketch.

@@ -20,7 +20,7 @@ I am a member (and currently the Secretary) of [**Horsham Artists**](https://www
 
 I have developed apps for the web (browsers) and Windows using Dart and Flutter. Contact me if any are of interest (it would be free)...
 - A Windows app **BoardsUp!** for planning temporary (and permanent) art exhibitions, especially those that hire temporary, movable walls/boards on which 2D is art is hung. 
-- a web app [**TATOE**](https://tatoe.co.uk/) for managing Art Trails.
+- a web app [**TATOE**] for managing Art Trails.
 - a Windows app **PicFramer2** to put a frame around an image of a picture of artwork, for upload to websites. 
 
 ### **Art Interests** 
