@@ -58,3 +58,9 @@ theme = 'hugo-serif-theme'
   name = "2026"
   url = "/2026/"
   weight = 7
+  
+[[menu.main]]
+  name = "Linen Cut (app)"
+  url = "/linen_cut/"
+  weight = 8
+
