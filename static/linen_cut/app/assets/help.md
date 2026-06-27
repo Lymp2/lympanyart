@@ -43,8 +43,10 @@ The origin is the **bottom-left corner of the linen**. Canvases can overlap on s
 |--------|----------------|
 | **Overlap** | Extra linen on each side for stapling (default 0.1 m, max 0.3 m). |
 | **m / in** | Switch display units. |
-| **Add canvas** | Adds a canvas at the bottom-left (or the next free slot to the right). Size: **selected canvas** if one is focused; otherwise the **last edited** canvas; otherwise default **0.2 m × 0.3 m**. |
+| **Add canvas** | Adds a canvas. **First canvas:** 70 × 70 cm, centred on the linen. **Later canvases:** placed about half a canvas width from the **selected** canvas (or **last edited** if none selected); size from that same canvas, else default **0.2 m × 0.3 m** at the bottom-left. |
 | **Rotate** (↺) | Swaps the selected canvas width and length. Disabled until a canvas is selected. |
+| **Align left** | Moves other canvases whose left edge is within **30 cm** of the selected canvas’s left edge so they line up with it. |
+| **Align top** | Same for **top** edges (within 30 cm). |
 | **Zoom in / out** | Change on-screen scale only; real sizes stay the same. |
 | **Center** | Reset pan so linen is centred. |
 | **Screenshot** | Saves the current drawing area as a JPEG download. |
