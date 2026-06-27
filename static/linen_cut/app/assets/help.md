@@ -74,7 +74,7 @@ Click or tap the drawing area first so keyboard shortcuts work there (desktop).
 | Delete canvas | Select it, then **Delete** (red bin) in the toolbar, or **Backspace** / **Delete**. | Select it, then the red **Delete** bin in the toolbar, or keyboard if available. |
 | Separate overlapping canvases | **Separate** in the toolbar (after **Delete all**). | **Separate** icon in the icon row, or **Separate canvases** in **⋮** (More). |
 
-On narrow screens the toolbar uses **icon buttons** only; tap **⋮** (More) for **Separate canvases**, Screenshot, Help, Delete all, and the pan checkboxes.
+On narrow screens the toolbar uses **icon buttons** only, including **Help** (?) in the icon row. Tap **⋮** (More) for **Separate canvases**, Screenshot, Delete all, and the pan checkboxes.
 
 Linen length, width, overlap, and units appear in the compact toolbar. Dimensions use **metres** by default; tick the **in** checkbox in the icon row to switch to inches. Use the **⇄** button next to the linen size boxes to swap length and width.
 
