@@ -76,7 +76,7 @@ Click or tap the drawing area first so keyboard shortcuts work there (desktop).
 
 On narrow screens the toolbar uses **icon buttons** only; tap **⋮** (More) for **Separate canvases**, Screenshot, Help, Delete all, and the pan checkboxes.
 
-Linen length, width, overlap, and units appear in the compact toolbar. Use the **⇄** button next to the linen size boxes to swap length and width.
+Linen length, width, overlap, and units appear in the compact toolbar. Dimensions use **metres** by default; tick the **in** checkbox in the icon row to switch to inches. Use the **⇄** button next to the linen size boxes to swap length and width.
 
 ## Keyboard crib sheet
 
