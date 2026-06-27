@@ -26,8 +26,8 @@ Nothing is sent to a server. If you clear browser data for this site, or use a d
 
 ## On-screen layout
 
-- **Linen** — pale grey/brown rectangle; size set in the app bar.
-- **Canvas** — white rectangle; drag to move, corner handles to resize.
+- **Linen** — pale grey/brown rectangle; size set in the app bar (desktop) or toolbar (narrow screens).
+- **Canvas** — white rectangle; drag to move, corner handles to resize when selected.
 - **Grey border** — overlap allowance around each canvas (set by the Overlap box).
 - **Labels** — show canvas size and cut size, e.g. `canvas = 25 x 35; cut = 35 x 45` (units follow the m/in toggle).
 
@@ -44,6 +44,7 @@ The origin is the **bottom-left corner of the linen**. Canvases can overlap on s
 | **Overlap** | Extra linen on each side for stapling (default 0.1 m, max 0.3 m). |
 | **m / in** | Switch display units. |
 | **Add canvas** | Adds a canvas at the bottom-left (or the next free slot to the right). Size: **selected canvas** if one is focused; otherwise the **last edited** canvas; otherwise default **0.2 m × 0.3 m**. |
+| **Rotate** (↺) | Swaps the selected canvas width and length. Disabled until a canvas is selected. |
 | **Zoom in / out** | Change on-screen scale only; real sizes stay the same. |
 | **Center** | Reset pan so linen is centred. |
 | **Screenshot** | Saves the current drawing area as a JPEG download. |
@@ -57,16 +58,20 @@ The origin is the **bottom-left corner of the linen**. Canvases can overlap on s
 
 ## Mouse and touch
 
-Click the drawing area first so keyboard shortcuts work there.
+Click or tap the drawing area first so keyboard shortcuts work there (desktop).
 
-| Action | How |
-|--------|-----|
-| Select canvas | Click inside it. |
-| Move canvas | Drag inside the white area. |
-| Resize canvas | Drag a blue corner handle. |
-| Rotate canvas | Double-click inside the canvas (swaps width and length). |
-| Pan | Drag empty background (behaviour depends on checkboxes above). |
-| Delete canvas | Select it, then **Backspace** or **Delete**. |
+| Action | Desktop | Phone / narrow screen |
+|--------|---------|------------------------|
+| Select canvas | Click inside it. | Tap or long-press inside it. |
+| Move canvas | Drag inside the white area. | Drag inside the white area. |
+| Resize canvas | Drag a blue corner handle (selected canvas). | Drag a blue corner handle (selected canvas). |
+| Rotate canvas | Double-click inside the canvas, or **Rotate** (↺) in the toolbar. | Select the canvas, then tap **Rotate** (↺) in the toolbar. |
+| Pan | Drag empty background (behaviour depends on checkboxes above). | Same. |
+| Delete canvas | Select it, then **Backspace** or **Delete**. | Select it, then **Backspace** or **Delete** if you have a keyboard; otherwise use device backspace where available. |
+
+On narrow screens the toolbar uses **icon buttons** only; tap **⋮** (More) for Screenshot, Help, Delete all, and the pan checkboxes.
+
+Linen length, width, overlap, and units appear in the compact toolbar. Use the **⇄** button next to the linen size boxes to swap length and width.
 
 ## Keyboard crib sheet
 
@@ -84,6 +89,7 @@ Shortcuts apply when the **drawing area** has focus (click it once). They do not
 
 - Use **Center** after panning or zooming if you lose the linen.
 - **Add canvas** repeats the size of the canvas you have selected, or the last one you moved, resized, or rotated — handy for placing several of the same size.
+- On a phone, **Rotate** (↺) is the easiest way to turn a canvas — select it first, then tap the button.
 - Copy and paste is handy for repeating the same canvas size in different places.
 - Switch to inches if your stretchers are sized in imperial units; internal storage stays in metres.
 
