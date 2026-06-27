@@ -47,6 +47,7 @@ The origin is the **bottom-left corner of the linen**. Canvases can overlap on s
 | **Rotate** (↺) | Swaps the selected canvas width and length. Disabled until a canvas is selected. |
 | **Align left** | Moves other canvases whose left edge is within **30 cm** of the selected canvas’s left edge so they line up with it. |
 | **Align top** | Same for **top** edges (within 30 cm). |
+| **Delete** (red bin) | Removes the selected canvas. Disabled until a canvas is selected. Undo with Ctrl+Z. |
 | **Zoom in / out** | Change on-screen scale only; real sizes stay the same. |
 | **Center** | Reset pan so linen is centred. |
 | **Screenshot** | Saves the current drawing area as a JPEG download. |
@@ -69,7 +70,7 @@ Click or tap the drawing area first so keyboard shortcuts work there (desktop).
 | Resize canvas | Drag a blue corner handle (selected canvas). | Drag a blue corner handle (selected canvas). |
 | Rotate canvas | Double-click inside the canvas, or **Rotate** (↺) in the toolbar. | Select the canvas, then tap **Rotate** (↺) in the toolbar. |
 | Pan | Drag empty background (behaviour depends on checkboxes above). | Same. |
-| Delete canvas | Select it, then **Backspace** or **Delete**. | Select it, then **Backspace** or **Delete** if you have a keyboard; otherwise use device backspace where available. |
+| Delete canvas | Select it, then **Delete** (red bin) in the toolbar, or **Backspace** / **Delete**. | Select it, then the red **Delete** bin in the toolbar, or keyboard if available. |
 
 On narrow screens the toolbar uses **icon buttons** only; tap **⋮** (More) for Screenshot, Help, Delete all, and the pan checkboxes.
 
