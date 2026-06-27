@@ -1,6 +1,6 @@
 # linen_cut
 
-Version 1 · Release 1 · 23 June 2026
+Version 1.1 · 26 June 2026
 
 ## What is this?
 
@@ -9,8 +9,6 @@ Version 1 · Release 1 · 23 June 2026
 You draw your linen on screen, place canvas sizes on it, and see each **cut size** (canvas plus overlap for stapling on stretcher bars). It helps you fit canvases onto a roll or length of fabric before you cut.
 
 Linen is often bought in rolls a few metres long, typically about **2 m wide**. Default settings are **3 m × 2 m** linen; you can change both dimensions up to **10 m**.
-
-**linen_cut is free to use.** There is no account, subscription, or payment. But you could buy me a coffee...
 
 ## Your data
 
@@ -31,7 +29,7 @@ Nothing is sent to a server. If you clear browser data for this site, or use a d
 - **Linen** — pale grey/brown rectangle; size set in the app bar.
 - **Canvas** — white rectangle; drag to move, corner handles to resize.
 - **Grey border** — overlap allowance around each canvas (set by the Overlap box).
-- **Labels** — show canvas size and cut size, e.g. `canvas = 25 cm × 35 cm; cut = 35 cm × 45 cm`.
+- **Labels** — show canvas size and cut size, e.g. `canvas = 25 x 35; cut = 35 x 45` (units follow the m/in toggle).
 
 Cut size = canvas size + twice the overlap on each axis.
 
@@ -45,7 +43,7 @@ The origin is the **bottom-left corner of the linen**. Canvases can overlap on s
 |--------|----------------|
 | **Overlap** | Extra linen on each side for stapling (default 0.1 m, max 0.3 m). |
 | **m / in** | Switch display units. |
-| **Add canvas** | Adds a 0.2 m × 0.3 m canvas at the bottom-left (or next free slot). |
+| **Add canvas** | Adds a canvas at the bottom-left (or the next free slot to the right). Size: **selected canvas** if one is focused; otherwise the **last edited** canvas; otherwise default **0.2 m × 0.3 m**. |
 | **Zoom in / out** | Change on-screen scale only; real sizes stay the same. |
 | **Center** | Reset pan so linen is centred. |
 | **Screenshot** | Saves the current drawing area as a JPEG download. |
@@ -85,6 +83,7 @@ Shortcuts apply when the **drawing area** has focus (click it once). They do not
 ## Tips
 
 - Use **Center** after panning or zooming if you lose the linen.
+- **Add canvas** repeats the size of the canvas you have selected, or the last one you moved, resized, or rotated — handy for placing several of the same size.
 - Copy and paste is handy for repeating the same canvas size in different places.
 - Switch to inches if your stretchers are sized in imperial units; internal storage stays in metres.
 
