@@ -53,6 +53,7 @@ The origin is the **bottom-left corner of the linen**. Canvases can overlap on s
 | **Screenshot** | Saves the current drawing area as a JPEG download. |
 | **Help** | Opens this document. |
 | **Delete all** | Removes every canvas (undo with Ctrl+Z). |
+| **Separate** | Spreads **all** overlapping canvases apart. Each pair ends up with about **5 cm** between the white canvas faces (not the grey cut margin). Canvases may move **outside** the linen. Disabled until there are at least two canvases. Undo with Ctrl+Z. |
 
 ### Checkboxes
 
@@ -71,8 +72,9 @@ Click or tap the drawing area first so keyboard shortcuts work there (desktop).
 | Rotate canvas | Double-click inside the canvas, or **Rotate** (↺) in the toolbar. | Select the canvas, then tap **Rotate** (↺) in the toolbar. |
 | Pan | Drag empty background (behaviour depends on checkboxes above). | Same. |
 | Delete canvas | Select it, then **Delete** (red bin) in the toolbar, or **Backspace** / **Delete**. | Select it, then the red **Delete** bin in the toolbar, or keyboard if available. |
+| Separate overlapping canvases | **Separate** in the toolbar (after **Delete all**). | **Separate** icon in the icon row, or **Separate canvases** in **⋮** (More). |
 
-On narrow screens the toolbar uses **icon buttons** only; tap **⋮** (More) for Screenshot, Help, Delete all, and the pan checkboxes.
+On narrow screens the toolbar uses **icon buttons** only; tap **⋮** (More) for **Separate canvases**, Screenshot, Help, Delete all, and the pan checkboxes.
 
 Linen length, width, overlap, and units appear in the compact toolbar. Use the **⇄** button next to the linen size boxes to swap length and width.
 
@@ -94,6 +96,7 @@ Shortcuts apply when the **drawing area** has focus (click it once). They do not
 - **Add canvas** repeats the size of the canvas you have selected, or the last one you moved, resized, or rotated — handy for placing several of the same size.
 - On a phone, **Rotate** (↺) is the easiest way to turn a canvas — select it first, then tap the button.
 - Copy and paste is handy for repeating the same canvas size in different places.
+- **Separate** is useful when canvases have been stacked on top of each other — it pushes them apart with roughly **5 cm** between each pair. The result is approximate (positions snap to the grid) and canvases can end up off the linen; drag them back or use **Align left** / **Align top** if needed.
 - Switch to inches if your stretchers are sized in imperial units; internal storage stays in metres.
 
 ---
